@@ -1,0 +1,6 @@
+@EmployeeDatabase_HostAddress = http://localhost:5025
+
+GET {{EmployeeDatabase_HostAddress}}/Program/
+Accept: application/json
+
+###
